@@ -1,0 +1,87 @@
+{
+  "food_items": [
+    {
+      "dish_name": "veg noodles edited",
+      "price": 20,
+      "category": "parotta",
+      "image_url": "https://img.freepik.com/free-photo/schezwan-noodles-szechwan-vegetable-hakka-noodles-chow-mein-is-popular-indo-chinese-recipes-served-bowl-plate-with-wooden-chopsticks_466689-74475.jpg?w=360&t=st=1666082653~exp=1666083253~hmac=8f1020abeb6f1f87d70ffa40017fc35e9fc2007f6561302c4a6725dd242505e0",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "dish_name": "veg noodlesdd",
+      "price": 30,
+      "category": "parottas",
+      "image_url": "https://img.freepik.com/free-photo/schezwan-noodles-szechwan-vegetable-hakka-noodles-chow-mein-is-popular-indo-chinese-recipes-served-bowl-plate-with-wooden-chopsticks_466689-74475.jpg?w=360&t=st=1666082653~exp=1666083253~hmac=8f1020abeb6f1f87d70ffa40017fc35e9fc2007f6561302c4a6725dd242505e0"
+    },
+    {
+      "dish_name": "veg noodlesdd",
+      "price": 30,
+      "category": "parottas",
+      "image_url": "https://img.freepik.com/free-photo/schezwan-noodles-szechwan-vegetable-hakka-noodles-chow-mein-is-popular-indo-chinese-recipes-served-bowl-plate-with-wooden-chopsticks_466689-74475.jpg?w=360&t=st=1666082653~exp=1666083253~hmac=8f1020abeb6f1f87d70ffa40017fc35e9fc2007f6561302c4a6725dd242505e0",
+      "id": 3
+    },
+    {
+      "dish_name": "veg noodlesdd",
+      "price": 30,
+      "category": "parottas",
+      "image_url": "https://img.freepik.com/free-photo/schezwan-noodles-szechwan-vegetable-hakka-noodles-chow-mein-is-popular-indo-chinese-recipes-served-bowl-plate-with-wooden-chopsticks_466689-74475.jpg?w=360&t=st=1666082653~exp=1666083253~hmac=8f1020abeb6f1f87d70ffa40017fc35e9fc2007f6561302c4a6725dd242505e0",
+      "id": 4
+    },
+    {
+      "dish_name": "veg noodlesdd",
+      "price": 30,
+      "category": "parottas",
+      "image_url": "https://img.freepik.com/free-photo/schezwan-noodles-szechwan-vegetable-hakka-noodles-chow-mein-is-popular-indo-chinese-recipes-served-bowl-plate-with-wooden-chopsticks_466689-74475.jpg?w=360&t=st=1666082653~exp=1666083253~hmac=8f1020abeb6f1f87d70ffa40017fc35e9fc2007f6561302c4a6725dd242505e0",
+      "id": 5
+    },
+    {
+      "dish_name": "veg noodlesdd",
+      "price": 30,
+      "category": "parottas",
+      "image_url": "https://img.freepik.com/free-photo/schezwan-noodles-szechwan-vegetable-hakka-noodles-chow-mein-is-popular-indo-chinese-recipes-served-bowl-plate-with-wooden-chopsticks_466689-74475.jpg?w=360&t=st=1666082653~exp=1666083253~hmac=8f1020abeb6f1f87d70ffa40017fc35e9fc2007f6561302c4a6725dd242505e0",
+      "id": 6
+    },
+    {
+      "dish_name": "",
+      "price": 0,
+      "category": "",
+      "image_url": "",
+      "id": 8
+    },
+    {
+      "dish_name": "",
+      "price": 0,
+      "category": "",
+      "image_url": "",
+      "id": 9
+    },
+    {
+      "dish_name": "edd",
+      "price": 0,
+      "category": "efd",
+      "image_url": "ed",
+      "id": 10
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "dish_name": "veg noodles edited",
+      "price": 20,
+      "count": 2
+    },
+    {
+      "id": 4,
+      "dish_name": "veg noodles edited",
+      "price": 20,
+      "count": 2
+    },
+    {
+      "id": 2,
+      "dish_name": "veg noodles edited",
+      "price": 20,
+      "count": 2
+    }
+  ]
+}

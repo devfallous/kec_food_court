@@ -1,0 +1,70 @@
+
+#button_edit {
+
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+
+    border-radius: 5px;
+    border: solid #008fb3 2.5px;
+
+    font-family: Arial;
+    color: #fcfcfc;
+    font-size: 16px;
+    font-weight: bold;
+
+    padding: 11px 24px 10px 20px;
+
+    background: #34c6d9;
+
+    cursor :pointer;
+    
+}
+  
+#button_edit:hover {
+
+    background: #27e7f5;
+    
+}
+
+#button_remove {
+
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+
+    border-radius: 5px;
+    border: solid #940202 2.5px;
+
+    font-family: Arial;
+    color: #fcfcfc;
+    font-size: 16px;
+    font-weight: bold;
+
+    background: #d93434;
+
+    padding: 11px 24px 10px 20px;
+
+    cursor :pointer;
+    
+  }
+  
+#button_remove:hover {
+
+    background: #f52727;
+  
+}
+
+#admin_table_cell{
+
+    /* width:170px; */
+  }
+  
+#admin_table_cell_action{
+
+    width: 220px;
+}
+
+.admin_table_image_cell > img{
+
+    width:50px;
+    height: 50px;
+}
